@@ -1,4 +1,4 @@
-dist
+.dist
 cabal-dev
 *.o
 *.hi
@@ -16,3 +16,6 @@ hoopl-3.10.0.1
 LLVM_3.5_Files
 *.html
 *.tix
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
